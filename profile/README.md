@@ -1,4 +1,4 @@
-## MIR chain
+## MIR-blockchain
 
 #### Modular blockchain system based on Ethereum/Quorum
 
