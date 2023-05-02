@@ -1,6 +1,6 @@
 ## MIR-blockchain
 
-#### Modular blockchain system based on Ethereum/Quorum
+#### Modular blockchain system based on Ethereum/Quorum with multiple cryptographic standards
 
 ### Features
 
