@@ -1,4 +1,6 @@
-## MIR-blockchain
+## **MIR**-blockchain
+
+**Inspiration:** _Mir (Russian: Мир, IPA: [ˈmʲir]; lit. 'peace' or 'world') was the first **modular** space station and was assembled in orbit from 1986 to 1996._
 
 #### Modular blockchain system based on Ethereum/Quorum with multiple cryptographic standards
 
