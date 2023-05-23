@@ -21,5 +21,5 @@
   - DPOS*
   - Tendermint*
   - Stellar*
-
-* our plans
+_______
+ -* planning
