@@ -10,16 +10,10 @@
   - GOST 34.10 (any 256 bit curve) + SteebogHash
   - CyptoProGOST + SteebogHash
   - NIST Secp256k1 + SHA3
-  - Post-Quantum Kyber/Crystals*
 - Differetnt consensus algoruthms are also avaliable at a new chain initialization:
   - Proof-of-Work
   - Proof-of-Authority 
   - Raft
   - iBFT
   - QBFT
-  - POS*
-  - DPOS*
-  - Tendermint*
-  - Stellar*
 _______
- -* planning
